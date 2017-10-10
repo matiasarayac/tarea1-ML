@@ -1,4 +1,4 @@
-Tarea 1 Machine Learning
+Tarea 1 - Machine Learning
 =========
 
 Run
