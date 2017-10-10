@@ -4,7 +4,7 @@ Tarea 1 Machine Learning
 Run
 -----------
 
-Enter the startup folder on your termianl by typing cd /tarea1-ML. and then type:
+Enter the startup folder on your terminal by typing cd /tarea1-ML. and then type:
 
 ```
 jupyter notebook
