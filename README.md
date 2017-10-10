@@ -1,7 +1,14 @@
-# tarea1-ML
+Tarea 1 Machine Learning
+=========
 
-Enter the startup folder on your termianl by typing cd /tarea1-ML. and type:
-	jupyter notebook
+Execute
+-----------
+
+Enter the startup folder on your termianl by typing cd /tarea1-ML. and then type:
+
+```
+jupyter notebook
+```
 
 Then it will appear in a new browser window or tab. 
 
